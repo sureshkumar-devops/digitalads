@@ -12,6 +12,11 @@
       <password>Admin@123</password>
       <id>snapshots</id>
     </server>
+      <server>
+      <username>jenkins</username>
+      <password>Admin@123</password>
+      <id>digitalads-group-virtual</id>
+    </server>
   </servers>
   <mirrors>
     <mirror>
