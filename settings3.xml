@@ -18,7 +18,7 @@
       <mirrorOf>*</mirrorOf>
       <name>digitalads-group-virtual</name>
       <url>http://localhost:8081/artifactory/digitalads-group-virtual</url>
-      <id>seo-virtual-group</id>
+      <id>digitalads-group-virtual</id>
     </mirror>
   </mirrors>
   <profiles>
